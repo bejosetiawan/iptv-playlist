@@ -1,2 +1,7 @@
 #EXTINF:-1 ,Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/23/xpuDen.jpg" tvg-id="Local.Programming.Dummy.us" group-title="SDM-LOKAL_ID",Garuda TV(1080)
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
